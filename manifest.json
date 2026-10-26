@@ -1,0 +1,42 @@
+{
+ "id": "/Vol_nio/",
+ "name": "Вольные Земли",
+ "short_name": "Вольные Земли",
+ "description": "Средневековая песочница: вы бог, наблюдаете за развитием государств, войн, династий, культур и религий.",
+ "lang": "ru",
+ "dir": "ltr",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "any",
+ "background_color": "#0f1a15",
+ "theme_color": "#0f1a15",
+ "categories": [
+  "games",
+  "simulation"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
